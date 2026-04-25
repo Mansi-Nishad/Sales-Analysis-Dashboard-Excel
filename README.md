@@ -12,7 +12,8 @@ insights in a simple and user-friendly way.
 - 📐 Excel Formulas (IF, VLOOKUP, SUMIF)
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/<img width="1919" height="986" alt="Screenshot 2026-04-25 212930" src="https://github.com/user-attachments/assets/fcee8d98-49f8-483d-85a0-4314e7678bba" />
+)
 
 ## 🎯 Key Highlights / What I Achieved
 - 📈 Built an interactive sales dashboard from raw data
